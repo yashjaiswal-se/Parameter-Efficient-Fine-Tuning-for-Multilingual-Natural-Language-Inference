@@ -237,6 +237,4 @@ Training and evaluation notebooks can be added independently without modifying t
 ---
 
 
-# Citation
 
-If this repository contributes to academic work, please cite the repository and the original datasets and model authors.
